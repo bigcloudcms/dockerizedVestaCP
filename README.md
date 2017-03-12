@@ -1,5 +1,7 @@
-VestaCP on Docker [![Build Status](https://travis-ci.org/lagun4ik/dockerizedVestaCP.svg?branch=master)](https://travis-ci.org/lagun4ik/dockerizedVestaCP)
+[Deprecated] VestaCP on Docker [![Build Status](https://travis-ci.org/lagun4ik/dockerizedVestaCP.svg?branch=master)](https://travis-ci.org/lagun4ik/dockerizedVestaCP)
 ----
+
+Use of the VestaCP in one image is a bad way. Use the docker-compose
 
 A dockerized version of VestaCP. [Without FTP server](#ssh-and-ftp).
 
